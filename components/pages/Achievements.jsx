@@ -41,26 +41,7 @@ export default function AchievementsPage() {
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<div className="bg-dark flex max-w-md shadow-lg rounded-lg overflow-hidden">
-    <div className="w-1/3 bg-cover bg-landscape"><br></br><br></br>
-    
-    </div>
-    <div className="w-2/3 p-4">
-        <h1 className="font-bold text-2xl text-gray-400 dark:text-gray-100">
-            WMP
-        </h1>
-        <p className="mt-2 text-gray-600 text-sm">
-          Currently enrolled into the cadets scheme, learning new skills on a weekly! As-well as participating positively in the community.
-        </p>
-        <div className="flex item-center mt-2">
-        </div>
-        <div className="flex item-center justify-between mt-3">
-            <a href="https://vpc.police.uk/"><button className="px-3 py-2 bg-gray-800 text-white text-xs font-bold uppercase rounded">
-                Visit Website
-            </button></a>
-        </div>
-    </div>
-</div>
+
 </div>
 
                         <center>
