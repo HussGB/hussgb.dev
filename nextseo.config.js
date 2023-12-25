@@ -2,7 +2,7 @@ export default {
     titleTemplate: 'Husnain',
     defaultTitle: 'Husnain',
     description: 'Hi, I\'m Husnain! A full-stack developer with years of experience. Welcome to my portfolio website.',
-    canonical: 'https://hussgb.dev',
+    canonical: 'https://husnain.uk',
     additionalMetaTags: [
         {
           property: 'theme-color',
@@ -10,12 +10,12 @@ export default {
         },
     ],
     openGraph: {
-        url: 'https://hussgb.dev/',
+        url: 'https://husnain.uk/',
         type: 'website',
         locale: 'en_GB',
         title: 'Husnain',
         description: 'Hi, I\'m Husnain! A full-stack developer with years of experience. Welcome to my portfolio website.',
-        site_name: "HussGBs Website!",
+        site_name: "Husnains Website!",
         images: [
             {
                 url: "/favicons/circle-avatar.png",
