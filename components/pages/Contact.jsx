@@ -23,7 +23,7 @@ const ContactPage = () => {
             <h3 className="text-xl font-bold mb-4">Follow Me</h3>
             <div className="flex space-x-4">
               {/* Use the faLinkedin icon from the correct package */}
-              <a href="https://www.linkedin.com/in/mohammed-h-b40997280/" target="_blank" className="text-white">
+              <a href="https://www.linkedin.com/in/mohammed-h-b40997280/" target="_blank" rel="noreferrer" className="text-white">
                 <FontAwesomeIcon icon={faLinkedin} className="mr-2" />
                 LinkedIn
               </a>
