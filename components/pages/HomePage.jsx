@@ -5,6 +5,7 @@ import { faLinkedin, faDiscord, faGithub } from '@fortawesome/free-brands-svg-ic
 const HomePage = () => {
   return (
     <section className="bg-gray-900 text-white py-16">
+        <script async src="https://arc.io/widget.min.js#bCUtTAkp"></script>
       <div className="container mx-auto text-center">
         <h1 className="text-4xl font-bold mb-4">Hello, I&apos;m Husnain!</h1>
         <p className="text-lg">A full-stack developer & student..</p>
